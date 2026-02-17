@@ -18,3 +18,13 @@ I am an aspiring Data Analyst currently developing strong foundational skills in
 - Strengthen Excel and analytical reasoning
 - Learn SQL for database analysis
 - Develop data visualization skills
+
+## Repository Structure
+Each project in this portfolio will include:
+- Business problem statement
+- Dataset description
+- Data cleaning process
+- Analysis methodology
+- Key insights
+- Business recommendations
+
